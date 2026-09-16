@@ -1,8 +1,5 @@
 ## Publications
 
-<!--
-**bucholz-kim/bucholz-kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - **Kim, S., Dirmeyer, P. A., E. Seo,  Tokuda, D., & Fowler, M. (2026).**  
 "Interseasonal hysteresis and linearity among surface energy fluxes and soil water content in observations, reanalyses, and model simulations"
 *Geophysical Research Letters*
